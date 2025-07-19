@@ -11,10 +11,12 @@ st.markdown(
 
     ---
     ### 👨‍🔬 Anggota Kelompok:
-    - Nama 1 (NIM)
-    - Nama 2 (NIM)
-    - Nama 3 (NIM)
-    - Nama 4 (NIM)
+    
+    - Ade Irma Aprilia Safitri (2460304) 
+    - Fatma Nurul Hidayah (2460369) 
+    - Muhammad.Al-Fariz (2460431) 
+    - Shofina Dyah Puspita (2460517)
+    - Nazqia Salsabila (2430582) 
     ---
     Silakan pilih menu di sebelah kiri untuk mulai menggunakan aplikasi.
     """
