@@ -6,18 +6,11 @@ st.title("💡 Aplikasi Simulator Instrumen Kimia")
 
 st.markdown(
     """
-    Selamat datang di aplikasi edukatif untuk **simulasi instrumen laboratorium kimia**, 
-    dilengkapi dengan panduan **penanganan bahan kimia** dan **keselamatan kerja (K3)**.
+    ## Selamat Datang 👋
 
-    ---
-    ### 👨‍🔬 Anggota Kelompok:
-    
-    - Ade Irma Aprilia Safitri (2460304) 
-    - Fatma Nurul Hidayah (2460369) 
-    - Muhammad.Al-Fariz (2460431) 
-    - Shofina Dyah Puspita (2460517)
-    - Nazqia Salsabila (2430582) 
-    ---
-    Silakan pilih menu di sebelah kiri untuk mulai menggunakan aplikasi.
+    Aplikasi ini dirancang untuk membantu Anda memahami berbagai **instrumen laboratorium kimia**, 
+    serta menyediakan panduan penting mengenai **penanganan bahan kimia** dan **keselamatan kerja (K3)**.
+
+    Silakan gunakan menu di sebelah kiri untuk menjelajahi simulasi dan informasi yang tersedia.
     """
 )
